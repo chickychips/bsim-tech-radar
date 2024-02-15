@@ -1,0 +1,30 @@
+[
+  {
+    "name": "A",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "A",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "A",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "A",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  }
+]
