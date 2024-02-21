@@ -21,10 +21,136 @@
     "description": ""
   },
   {
-    "name": "A",
+    "name": "Java 7",
     "ring": "hold",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
     "description": ""
-  }
+  },
+  {
+    "name": "Spring Boot 1.x",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "ASP.NET v? (2005?)",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "ASP Classic",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "JSP",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "PHP v?",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "PEGA v?",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "React Native v?",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "React",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "VB .NET v?",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Python v?",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": ".NET Framework 3.x-4.x",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "NodeJS v?",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "JavaScript",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "TypeScript",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Java 8",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Java 11",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Go-Lang",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "NextJS v?",
+    "ring": "assess",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
 ]
